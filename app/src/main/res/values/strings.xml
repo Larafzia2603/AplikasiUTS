@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplikasiUTS</string>
+    <string name="nama_teman">Nama Teman</string>
+    <string name="nim_stambuk">NIM / Stambuk</string>
+    <string name="hobi">Hobi:</string>
+    <string name="status">Status:</string>
+</resources>
